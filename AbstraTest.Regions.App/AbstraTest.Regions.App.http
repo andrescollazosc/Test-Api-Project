@@ -1,0 +1,6 @@
+@AbstraTest.Regions.App_HostAddress = http://localhost:5003
+
+GET {{AbstraTest.Regions.App_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
